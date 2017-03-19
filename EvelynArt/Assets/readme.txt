@@ -1,0 +1,1 @@
+This is the place where you will submit your 3D props, texture files, and material files.
